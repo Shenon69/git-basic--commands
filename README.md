@@ -8,6 +8,6 @@
 ```git status``` - check the changed files<br />
 ```git add .``` - add all changes<br />
 ```git commit -m "commit message"``` - create the commit message <br />
-```git push``` - push the changes
+```git push``` - push the changes <br />
 
 
